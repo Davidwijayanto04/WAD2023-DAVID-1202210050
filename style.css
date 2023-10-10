@@ -1,0 +1,56 @@
+
+h1 {
+    background: rebeccapurple;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: red;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    color: white;
+    background: grey;
+    margin: 0;  
+}
+
+.content {
+    /* max-width: 800px; */
+    padding: 20px;
+}
+
+img {
+    /* display: block; */
+     
+    margin: 0 auto; 
+}
+
+p.intro {
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: blue;
+    font-size: 15;
+}
+l{
+    font-size: 15;
+    color:black
+}
